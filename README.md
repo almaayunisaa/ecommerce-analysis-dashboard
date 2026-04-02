@@ -17,6 +17,8 @@ pip install streamlit pandas matplotlib seaborn
 
 ```
 dashboard.py
+Analysis Data Project.ipynb (Notebook)
+requirements.txt
 dataset/
   olist_orders_dataset.csv
   olist_order_payments_dataset.csv
